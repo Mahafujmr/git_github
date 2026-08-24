@@ -1,2 +1,3 @@
-# git_github
-This repo use Git and Github practice
+# Git & Github Tutorial
+
+## This repo use Git and Github Note
