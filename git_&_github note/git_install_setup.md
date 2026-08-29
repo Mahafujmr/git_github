@@ -1,4 +1,4 @@
-হ্যাঁ। নিচে **Windows-এ Git install + GitHub setup** নিয়ে একটি professional README note দিলাম। ধরে নিচ্ছি তুমি একদম শুরু থেকে setup করছো।
+
 
 # Git Installation & GitHub Setup
 

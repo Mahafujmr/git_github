@@ -1,6 +1,5 @@
 # What is Git?
 
-অবশ্যই। নিচে **Git** সম্পর্কে একটি professional README-style note দিলাম, যেখানে explanation বাংলায় রাখা হয়েছে।
 
 # Git
 
